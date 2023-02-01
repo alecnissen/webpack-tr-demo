@@ -1,0 +1,24 @@
+{
+  "name": "webpack-tr-demo",
+  "version": "1.0.0",
+  "description": "practice using webpack",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alecnissen/webpack-tr-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alecnissen/webpack-tr-demo/issues"
+  },
+  "homepage": "https://github.com/alecnissen/webpack-tr-demo#readme",
+  "devDependencies": {
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
